@@ -1,1 +1,1 @@
-# Functional_Programming_in_Scala_Specialization
+# [Coursera](https://www.coursera.org/) assignments.
