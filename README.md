@@ -1,1 +1,1 @@
-# [Coursera](https://www.coursera.org/) assignments.
+# Coursera assignments.
