@@ -1,28 +1,28 @@
 # First Course
-ecole_polytechnique_scala/functional_programming_principles_in_scala/week1/example/project/target/
-ecole_polytechnique_scala/functional_programming_principles_in_scala/week1/example/project/project/target/
-ecole_polytechnique_scala/functional_programming_principles_in_scala/week1/example/target/
-ecole_polytechnique_scala/functional_programming_principles_in_scala/week1/HelloWorld/target/
-ecole_polytechnique_scala/functional_programming_principles_in_scala/week1/HelloWorld/project/target
-ecole_polytechnique_scala/functional_programming_principles_in_scala/week1/project/target/
-ecole_polytechnique_scala/functional_programming_principles_in_scala/week1/target/
+scala/functional_programming/week1/example/project/target/
+scala/functional_programming/week1/example/project/project/target/
+scala/functional_programming/week1/example/target/
+scala/functional_programming/week1/HelloWorld/target/
+scala/functional_programming/week1/HelloWorld/project/target
+scala/functional_programming/week1/project/target/
+scala/functional_programming/week1/target/
 
-ecole_polytechnique_scala/functional_programming_principles_in_scala/objsets/target/
-ecole_polytechnique_scala/functional_programming_principles_in_scala/objsets/project/target/
-ecole_polytechnique_scala/functional_programming_principles_in_scala/objsets/project/project/target/
+scala/functional_programming/objsets/target/
+scala/functional_programming/objsets/project/target/
+scala/functional_programming/objsets/project/project/target/
 
-ecole_polytechnique_scala/functional_programming_principles_in_scala/patmat/project/project/target/
-ecole_polytechnique_scala/functional_programming_principles_in_scala/patmat/project/target/
-ecole_polytechnique_scala/functional_programming_principles_in_scala/patmat/target/
+scala/functional_programming/patmat/project/project/target/
+scala/functional_programming/patmat/project/target/
+scala/functional_programming/patmat/target/
 
-ecole_polytechnique_scala/functional_programming_principles_in_scala/forcomp/project/project/target/
-ecole_polytechnique_scala/functional_programming_principles_in_scala/forcomp/project/target/
-ecole_polytechnique_scala/functional_programming_principles_in_scala/forcomp/target/
+scala/functional_programming/forcomp/project/project/target/
+scala/functional_programming/forcomp/project/target/
+scala/functional_programming/forcomp/target/
 
 # Second Course
-ecole_polytechnique_scala/big_data_analysis_with_scala_and_spark/stackoverflow/target/
-ecole_polytechnique_scala/big_data_analysis_with_scala_and_spark/stackoverflow/project/target/
-ecole_polytechnique_scala/big_data_analysis_with_scala_and_spark/stackoverflow/project/project/target/
-ecole_polytechnique_scala/big_data_analysis_with_scala_and_spark/stackoverflow/src/main/resources/stackoverflow/
+scala/spark/stackoverflow/target/
+scala/spark/stackoverflow/project/target/
+scala/spark/stackoverflow/project/project/target/
+scala/spark/stackoverflow/src/main/resources/stackoverflow/
 
 
